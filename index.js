@@ -20,8 +20,13 @@ function inc(n){
   return n+=1
 }
 
-makeInt(n)
-preserveDecimal(n,.10)
+function makeInt(n){
+  return parseint(n,10)
+}
+
+function preserveDecimal(n,.10){
+  return parsefloat(n)
+}
 add()
 subtract(n,3)
 multiply (n,4)
