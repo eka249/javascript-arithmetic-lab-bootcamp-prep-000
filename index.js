@@ -1,4 +1,4 @@
-var n= 4.5
+var n= '4.5'
 var a = 1
 var b= 3
 
@@ -24,7 +24,7 @@ function dec(n){
   return n-+1
 }
 function makeInt(n){
-  return parseint(n,10)
+  return parseint(,10)
 }
 
 function preserveDecimal(n){
