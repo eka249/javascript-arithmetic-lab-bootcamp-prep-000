@@ -3,8 +3,8 @@ var a = 1
 var b= 3
 
 function add(a,b){
-  a+b
-}
+  return a+b
+  }
 add()
 subtract(n,3)
 multiply (n,4)
