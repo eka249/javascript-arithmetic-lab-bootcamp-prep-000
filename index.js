@@ -1,6 +1,5 @@
 var n= 4.5
 
-inc(n)
-makeInt(n, 10)
-
-preserveDecimal(n)
+inc(n, 1)
+makeInt(n)
+preserveDecimal(n,.10)
