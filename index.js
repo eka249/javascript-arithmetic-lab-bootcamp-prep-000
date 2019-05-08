@@ -24,7 +24,7 @@ function dec(n){
   return n-+1
 }
 function makeInt(n){
-  return parseint(,10)
+  return parseint(n,10)
 }
 
 function preserveDecimal(n){
