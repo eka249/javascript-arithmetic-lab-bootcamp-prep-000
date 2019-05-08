@@ -27,6 +27,4 @@ function makeInt(n){
 function preserveDecimal(n,.10){
   return parsefloat(n)
 }
-add()
-subtract(n,3)
-multiply (n,4)
+
